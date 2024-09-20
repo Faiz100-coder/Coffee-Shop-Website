@@ -9,6 +9,19 @@ Welcome to the Coffee Shop website! This is a modern and responsive website desi
 
 
 ![image](https://github.com/user-attachments/assets/31c81f12-7d74-48cc-98e2-3fbd7680e0de)
+![image](https://github.com/user-attachments/assets/4daf15b7-189a-4356-9224-c5aec90e98ac)
+![image](https://github.com/user-attachments/assets/c9c60116-e741-470b-a9c9-851f25659ef1)
+![image](https://github.com/user-attachments/assets/a8e3c97b-ff14-4201-8d38-c8cb6cfbe28f)
+![image](https://github.com/user-attachments/assets/aa1d59e4-8eb1-445f-9321-4766da70d2cc)
+Login page 
+![image](https://github.com/user-attachments/assets/bead93d8-ce4b-4818-be45-2ca4041452bf)
+contact us
+![image](https://github.com/user-attachments/assets/9c833feb-b56b-4eb8-9887-5389dba895fa)
+
+
+
+
+
 
 
 ## Features
